@@ -1,16 +1,20 @@
-## Hi there 👋
+# Trevor Kakungu
 
-<!--
-**trevorkakungu-spec/trevorkakungu-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Senior Cybersecurity Engineer specializing in nuclear and industrial 
+control system (ICS) security. I work at the intersection of operational 
+technology, federal compliance frameworks, and threat detection in 
+high-consequence environments.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Nuclear cybersecurity | 10 CFR 73.54 & NEI 08-09
+- NIST SP 800-53 controls implementation
+- SIEM configuration & audit logging (SolarWinds LEM, McAfee ESM)
+- ICS/OT security in air-gapped environments
+- Graduate Studnt in Cyber Security Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You'll Find Here
+- Compliance documentation templates & mapping tools
+- Security scripts for OT/IT environments
+- Academic research projects in network & cyber-physical systems
+
+📍 Augusta, GA | Open to collaboration on ICS/OT security research
