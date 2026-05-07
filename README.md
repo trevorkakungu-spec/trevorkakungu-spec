@@ -1,16 +1,17 @@
 # Trevor Kakungu
 
-🔐 Senior Cybersecurity Engineer specializing in nuclear and industrial 
-control system (ICS) security. I work at the intersection of operational 
-technology, federal compliance frameworks, and threat detection in 
-high-consequence environments.
+🔐 Senior Cybersecurity Engineer specializing in nuclear and industrial
+control system (ICS) security. PhD student in Doctoral Information
+Technology (Cyber Engineering) at the University of the Cumberlands.
+I work at the intersection of operational technology, federal compliance
+frameworks, and threat detection in high-consequence environments.
 
 ## Focus Areas
 - Nuclear cybersecurity | 10 CFR 73.54 & NEI 08-09
 - NIST SP 800-53 controls implementation
 - SIEM configuration & audit logging (SolarWinds LEM, McAfee ESM)
 - ICS/OT security in air-gapped environments
-- Graduate Student in Cyber Security Engineering
+- PhD Student, Doctoral Information Technology – Cyber Engineering | University of the Cumberlands
 
 ## What You'll Find Here
 - Compliance documentation templates & mapping tools
