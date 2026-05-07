@@ -10,7 +10,7 @@ high-consequence environments.
 - NIST SP 800-53 controls implementation
 - SIEM configuration & audit logging (SolarWinds LEM, McAfee ESM)
 - ICS/OT security in air-gapped environments
-- Graduate Studnt in Cyber Security Engineering
+- Graduate Student in Cyber Security Engineering
 
 ## What You'll Find Here
 - Compliance documentation templates & mapping tools
